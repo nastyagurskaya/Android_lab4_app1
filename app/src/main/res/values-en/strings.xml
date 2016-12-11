@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guess number!</string>
+    <string name="ahead">Number is greater!</string>
+    <string name="behind">Number is less!</string>
+    <string name="hit">You are right! It was</string>
+    <string name="error">Invalid input!</string>
+    <string name="input_value">Enter the value!</string>
+    <string name="out_of_bounds_input">The number outside the interval</string>
+    <string name="play_more">Play agan</string>
+    <string name="reset_number_button">Reset number (&lt;)</string>
+    <string name="reset_number_toast">Number was reset</string>
+    <string name="try_amount">" Number of attempts:"</string>
+    <string name="try_to_guess">Try to guess the number (1 - 100)</string>
+    <string name="unknown">Unknown gesture</string>
+    <string name="wrong_input">You did not enter anything!</string>
+</resources>

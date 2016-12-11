@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Угадай число!</string>
+    <string name="behind">Перелёт!</string>
+    <string name="ahead">Недолёт!</string>
+    <string name="hit">В точку!Это было</string>
+    <string name="input_value">Ввести значение!</string>
+    <string name="play_more">Сыграть ещё</string>
+    <string name="try_to_guess">Попробуйте угадать число (1 &#8211; 100) </string>
+    <string name="error">Неверный ввод!</string>
+    <string name="wrong_input">Вы ничего не ввели!</string>
+    <string name="out_of_bounds_input">Число вне интервала</string>
+    <string name="try_amount">Кол-во попыток: </string>
+    <string name="unknown">Неизвестный символ</string>
+    <string name="reset_number_button">Сброс числа (&lt;)</string>
+    <string name="reset_number_toast">Число было сброшено</string>
+</resources>
+
